@@ -1,0 +1,26 @@
+C:\Users\Administrador\Desktop\xx\BLL\bin\Release\BLL.dll
+C:\Users\Administrador\Desktop\xx\BLL\bin\Release\BLL.pdb
+C:\Users\Administrador\Desktop\xx\BLL\bin\Release\BLL.xml
+C:\Users\Administrador\Desktop\xx\BLL\bin\Release\dall.dll
+C:\Users\Administrador\Desktop\xx\BLL\bin\Release\dall.pdb
+C:\Users\Administrador\Desktop\xx\BLL\bin\Release\dall.xml
+C:\Users\Administrador\Desktop\xx\BLL\obj\Release\BLL.vbprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\xx\BLL\obj\Release\BLL.Resources.resources
+C:\Users\Administrador\Desktop\xx\BLL\obj\Release\BLL.vbproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\xx\BLL\obj\Release\BLL.dll
+C:\Users\Administrador\Desktop\xx\BLL\obj\Release\BLL.xml
+C:\Users\Administrador\Desktop\xx\BLL\obj\Release\BLL.pdb
+C:\Users\Administrador\Desktop\xx\BLL\bin\Release\BLL.dll.config
+C:\Users\Administrador\Desktop\sistema bueno\BLL\bin\Release\BLL.dll.config
+C:\Users\Administrador\Desktop\sistema bueno\BLL\bin\Release\BLL.dll
+C:\Users\Administrador\Desktop\sistema bueno\BLL\bin\Release\BLL.pdb
+C:\Users\Administrador\Desktop\sistema bueno\BLL\bin\Release\BLL.xml
+C:\Users\Administrador\Desktop\sistema bueno\BLL\bin\Release\dall.dll
+C:\Users\Administrador\Desktop\sistema bueno\BLL\bin\Release\dall.pdb
+C:\Users\Administrador\Desktop\sistema bueno\BLL\bin\Release\dall.xml
+C:\Users\Administrador\Desktop\sistema bueno\BLL\obj\Release\BLL.vbprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\sistema bueno\BLL\obj\Release\BLL.Resources.resources
+C:\Users\Administrador\Desktop\sistema bueno\BLL\obj\Release\BLL.vbproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\sistema bueno\BLL\obj\Release\BLL.dll
+C:\Users\Administrador\Desktop\sistema bueno\BLL\obj\Release\BLL.xml
+C:\Users\Administrador\Desktop\sistema bueno\BLL\obj\Release\BLL.pdb

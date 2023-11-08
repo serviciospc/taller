@@ -1,0 +1,221 @@
+C:\Users\ServiciosPC\Desktop\TALLER\Matris_Taller\BLL\bin\Debug\BLL.dll
+C:\Users\ServiciosPC\Desktop\TALLER\Matris_Taller\BLL\bin\Debug\BLL.pdb
+C:\Users\ServiciosPC\Desktop\TALLER\Matris_Taller\BLL\bin\Debug\BLL.xml
+C:\Users\ServiciosPC\Desktop\TALLER\Matris_Taller\BLL\bin\Debug\dall.dll
+C:\Users\ServiciosPC\Desktop\TALLER\Matris_Taller\BLL\bin\Debug\dall.pdb
+C:\Users\ServiciosPC\Desktop\TALLER\Matris_Taller\BLL\bin\Debug\dall.xml
+C:\Users\ServiciosPC\Desktop\TALLER\Matris_Taller\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ServiciosPC\Desktop\TALLER\Matris_Taller\BLL\obj\Debug\BLL.Resources.resources
+C:\Users\ServiciosPC\Desktop\TALLER\Matris_Taller\BLL\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\ServiciosPC\Desktop\TALLER\Matris_Taller\BLL\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\ServiciosPC\Desktop\TALLER\Matris_Taller\BLL\obj\Debug\BLL.dll
+C:\Users\ServiciosPC\Desktop\TALLER\Matris_Taller\BLL\obj\Debug\BLL.xml
+C:\Users\ServiciosPC\Desktop\TALLER\Matris_Taller\BLL\obj\Debug\BLL.pdb
+C:\Users\ServiciosPC\Desktop\taller\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ServiciosPC\Desktop\taller\BLL\obj\Debug\BLL.Resources.resources
+C:\Users\ServiciosPC\Desktop\taller\BLL\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\ServiciosPC\Desktop\taller\BLL\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\ServiciosPC\Desktop\taller\BLL\obj\Debug\BLL.dll
+C:\Users\ServiciosPC\Desktop\taller\BLL\obj\Debug\BLL.xml
+C:\Users\ServiciosPC\Desktop\taller\BLL\obj\Debug\BLL.pdb
+C:\Users\ServiciosPC\Desktop\taller\BLL\bin\Debug\BLL.dll
+C:\Users\ServiciosPC\Desktop\taller\BLL\bin\Debug\BLL.pdb
+C:\Users\ServiciosPC\Desktop\taller\BLL\bin\Debug\BLL.xml
+C:\Users\ServiciosPC\Desktop\taller\BLL\bin\Debug\dall.dll
+C:\Users\ServiciosPC\Desktop\taller\BLL\bin\Debug\dall.pdb
+C:\Users\ServiciosPC\Desktop\taller\BLL\bin\Debug\dall.xml
+C:\Users\ServiciosPC\Desktop\xx\BLL\bin\Debug\BLL.dll
+C:\Users\ServiciosPC\Desktop\xx\BLL\bin\Debug\BLL.pdb
+C:\Users\ServiciosPC\Desktop\xx\BLL\bin\Debug\BLL.xml
+C:\Users\ServiciosPC\Desktop\xx\BLL\bin\Debug\dall.dll
+C:\Users\ServiciosPC\Desktop\xx\BLL\bin\Debug\dall.pdb
+C:\Users\ServiciosPC\Desktop\xx\BLL\bin\Debug\dall.xml
+C:\Users\ServiciosPC\Desktop\xx\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ServiciosPC\Desktop\xx\BLL\obj\Debug\BLL.Resources.resources
+C:\Users\ServiciosPC\Desktop\xx\BLL\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\ServiciosPC\Desktop\xx\BLL\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\ServiciosPC\Desktop\xx\BLL\obj\Debug\BLL.dll
+C:\Users\ServiciosPC\Desktop\xx\BLL\obj\Debug\BLL.xml
+C:\Users\ServiciosPC\Desktop\xx\BLL\obj\Debug\BLL.pdb
+F:\taller\xx\BLL\bin\Debug\BLL.dll
+F:\taller\xx\BLL\bin\Debug\BLL.pdb
+F:\taller\xx\BLL\bin\Debug\BLL.xml
+F:\taller\xx\BLL\bin\Debug\dall.dll
+F:\taller\xx\BLL\bin\Debug\dall.pdb
+F:\taller\xx\BLL\bin\Debug\dall.xml
+F:\taller\xx\BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\taller\xx\BLL\obj\Debug\BLL.Resources.resources
+F:\taller\xx\BLL\obj\Debug\GenerateResource.read.1.tlog
+F:\taller\xx\BLL\obj\Debug\GenerateResource.write.1.tlog
+F:\taller\xx\BLL\obj\Debug\BLL.dll
+F:\taller\xx\BLL\obj\Debug\BLL.xml
+F:\taller\xx\BLL\obj\Debug\BLL.pdb
+C:\Users\Gerson\Desktop\xx\BLL\bin\Debug\BLL.dll
+C:\Users\Gerson\Desktop\xx\BLL\bin\Debug\BLL.pdb
+C:\Users\Gerson\Desktop\xx\BLL\bin\Debug\BLL.xml
+C:\Users\Gerson\Desktop\xx\BLL\bin\Debug\dall.dll
+C:\Users\Gerson\Desktop\xx\BLL\bin\Debug\dall.pdb
+C:\Users\Gerson\Desktop\xx\BLL\bin\Debug\dall.xml
+C:\Users\Gerson\Desktop\xx\BLL\obj\Debug\BLL.vbprojResolveAssemblyReference.cache
+C:\Users\Gerson\Desktop\xx\BLL\obj\Debug\BLL.Resources.resources
+C:\Users\Gerson\Desktop\xx\BLL\obj\Debug\BLL.vbproj.GenerateResource.Cache
+C:\Users\Gerson\Desktop\xx\BLL\obj\Debug\BLL.dll
+C:\Users\Gerson\Desktop\xx\BLL\obj\Debug\BLL.xml
+C:\Users\Gerson\Desktop\xx\BLL\obj\Debug\BLL.pdb
+C:\Users\Administrador\Desktop\xx\BLL\bin\Debug\BLL.dll
+C:\Users\Administrador\Desktop\xx\BLL\bin\Debug\BLL.pdb
+C:\Users\Administrador\Desktop\xx\BLL\bin\Debug\BLL.xml
+C:\Users\Administrador\Desktop\xx\BLL\bin\Debug\dall.dll
+C:\Users\Administrador\Desktop\xx\BLL\bin\Debug\dall.pdb
+C:\Users\Administrador\Desktop\xx\BLL\bin\Debug\dall.xml
+C:\Users\Administrador\Desktop\xx\BLL\obj\Debug\BLL.vbprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\xx\BLL\obj\Debug\BLL.Resources.resources
+C:\Users\Administrador\Desktop\xx\BLL\obj\Debug\BLL.vbproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\xx\BLL\obj\Debug\BLL.dll
+C:\Users\Administrador\Desktop\xx\BLL\obj\Debug\BLL.xml
+C:\Users\Administrador\Desktop\xx\BLL\obj\Debug\BLL.pdb
+C:\Users\Administrador\Desktop\xx\BLL\bin\Debug\BLL.dll.config
+C:\Users\Recepcion\Desktop\Programa\sistema bueno\BLL\bin\Debug\BLL.dll.config
+C:\Users\Recepcion\Desktop\Programa\sistema bueno\BLL\bin\Debug\BLL.dll
+C:\Users\Recepcion\Desktop\Programa\sistema bueno\BLL\bin\Debug\BLL.pdb
+C:\Users\Recepcion\Desktop\Programa\sistema bueno\BLL\bin\Debug\BLL.xml
+C:\Users\Recepcion\Desktop\Programa\sistema bueno\BLL\bin\Debug\dall.dll
+C:\Users\Recepcion\Desktop\Programa\sistema bueno\BLL\bin\Debug\dall.pdb
+C:\Users\Recepcion\Desktop\Programa\sistema bueno\BLL\bin\Debug\dall.xml
+C:\Users\Recepcion\Desktop\Programa\sistema bueno\BLL\bin\Debug\dall.dll.config
+C:\Users\Recepcion\Desktop\Programa\sistema bueno\BLL\obj\Debug\BLL.vbprojAssemblyReference.cache
+C:\Users\Recepcion\Desktop\Programa\sistema bueno\BLL\obj\Debug\BLL.Resources.resources
+C:\Users\Recepcion\Desktop\Programa\sistema bueno\BLL\obj\Debug\BLL.vbproj.GenerateResource.cache
+C:\Users\Recepcion\Desktop\Programa\sistema bueno\BLL\obj\Debug\BLL.vbproj.CoreCompileInputs.cache
+C:\Users\Recepcion\Desktop\Programa\sistema bueno\BLL\obj\Debug\BLL.vbproj.CopyComplete
+C:\Users\Recepcion\Desktop\Programa\sistema bueno\BLL\obj\Debug\BLL.dll
+C:\Users\Recepcion\Desktop\Programa\sistema bueno\BLL\obj\Debug\BLL.xml
+C:\Users\Recepcion\Desktop\Programa\sistema bueno\BLL\obj\Debug\BLL.pdb
+C:\Users\gerson\Desktop\Programa1\sistema bueno\BLL\bin\Debug\BLL.dll.config
+C:\Users\gerson\Desktop\Programa1\sistema bueno\BLL\bin\Debug\BLL.dll
+C:\Users\gerson\Desktop\Programa1\sistema bueno\BLL\bin\Debug\BLL.pdb
+C:\Users\gerson\Desktop\Programa1\sistema bueno\BLL\bin\Debug\BLL.xml
+C:\Users\gerson\Desktop\Programa1\sistema bueno\BLL\bin\Debug\dall.dll
+C:\Users\gerson\Desktop\Programa1\sistema bueno\BLL\bin\Debug\dall.pdb
+C:\Users\gerson\Desktop\Programa1\sistema bueno\BLL\bin\Debug\dall.xml
+C:\Users\gerson\Desktop\Programa1\sistema bueno\BLL\bin\Debug\dall.dll.config
+C:\Users\gerson\Desktop\Programa1\sistema bueno\BLL\obj\Debug\BLL.vbprojAssemblyReference.cache
+C:\Users\gerson\Desktop\Programa1\sistema bueno\BLL\obj\Debug\BLL.Resources.resources
+C:\Users\gerson\Desktop\Programa1\sistema bueno\BLL\obj\Debug\BLL.vbproj.GenerateResource.cache
+C:\Users\gerson\Desktop\Programa1\sistema bueno\BLL\obj\Debug\BLL.vbproj.CoreCompileInputs.cache
+C:\Users\gerson\Desktop\Programa1\sistema bueno\BLL\obj\Debug\BLL.vbproj.CopyComplete
+C:\Users\gerson\Desktop\Programa1\sistema bueno\BLL\obj\Debug\BLL.dll
+C:\Users\gerson\Desktop\Programa1\sistema bueno\BLL\obj\Debug\BLL.xml
+C:\Users\gerson\Desktop\Programa1\sistema bueno\BLL\obj\Debug\BLL.pdb
+C:\Users\gerson\Desktop\Programa\sistema bueno\BLL\bin\Debug\BLL.dll.config
+C:\Users\gerson\Desktop\Programa\sistema bueno\BLL\bin\Debug\BLL.dll
+C:\Users\gerson\Desktop\Programa\sistema bueno\BLL\bin\Debug\BLL.pdb
+C:\Users\gerson\Desktop\Programa\sistema bueno\BLL\bin\Debug\BLL.xml
+C:\Users\gerson\Desktop\Programa\sistema bueno\BLL\bin\Debug\dall.dll
+C:\Users\gerson\Desktop\Programa\sistema bueno\BLL\bin\Debug\dall.pdb
+C:\Users\gerson\Desktop\Programa\sistema bueno\BLL\bin\Debug\dall.xml
+C:\Users\gerson\Desktop\Programa\sistema bueno\BLL\bin\Debug\dall.dll.config
+C:\Users\gerson\Desktop\Programa\sistema bueno\BLL\obj\Debug\BLL.vbprojAssemblyReference.cache
+C:\Users\gerson\Desktop\Programa\sistema bueno\BLL\obj\Debug\BLL.Resources.resources
+C:\Users\gerson\Desktop\Programa\sistema bueno\BLL\obj\Debug\BLL.vbproj.GenerateResource.cache
+C:\Users\gerson\Desktop\Programa\sistema bueno\BLL\obj\Debug\BLL.vbproj.CoreCompileInputs.cache
+C:\Users\gerson\Desktop\Programa\sistema bueno\BLL\obj\Debug\BLL.vbproj.CopyComplete
+C:\Users\gerson\Desktop\Programa\sistema bueno\BLL\obj\Debug\BLL.dll
+C:\Users\gerson\Desktop\Programa\sistema bueno\BLL\obj\Debug\BLL.xml
+C:\Users\gerson\Desktop\Programa\sistema bueno\BLL\obj\Debug\BLL.pdb
+C:\Users\Win10\Desktop\Programa\sistema bueno\BLL\bin\Debug\BLL.dll.config
+C:\Users\Win10\Desktop\Programa\sistema bueno\BLL\bin\Debug\BLL.dll
+C:\Users\Win10\Desktop\Programa\sistema bueno\BLL\bin\Debug\BLL.pdb
+C:\Users\Win10\Desktop\Programa\sistema bueno\BLL\bin\Debug\BLL.xml
+C:\Users\Win10\Desktop\Programa\sistema bueno\BLL\bin\Debug\dall.dll
+C:\Users\Win10\Desktop\Programa\sistema bueno\BLL\bin\Debug\dall.pdb
+C:\Users\Win10\Desktop\Programa\sistema bueno\BLL\bin\Debug\dall.xml
+C:\Users\Win10\Desktop\Programa\sistema bueno\BLL\bin\Debug\dall.dll.config
+C:\Users\Win10\Desktop\Programa\sistema bueno\BLL\obj\Debug\BLL.vbprojAssemblyReference.cache
+C:\Users\Win10\Desktop\Programa\sistema bueno\BLL\obj\Debug\BLL.Resources.resources
+C:\Users\Win10\Desktop\Programa\sistema bueno\BLL\obj\Debug\BLL.vbproj.GenerateResource.cache
+C:\Users\Win10\Desktop\Programa\sistema bueno\BLL\obj\Debug\BLL.vbproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\Programa\sistema bueno\BLL\obj\Debug\BLL.vbproj.CopyComplete
+C:\Users\Win10\Desktop\Programa\sistema bueno\BLL\obj\Debug\BLL.dll
+C:\Users\Win10\Desktop\Programa\sistema bueno\BLL\obj\Debug\BLL.xml
+C:\Users\Win10\Desktop\Programa\sistema bueno\BLL\obj\Debug\BLL.pdb
+C:\Users\Win10\Documents\Programa gerson\sistema bueno\BLL\bin\Debug\BLL.dll.config
+C:\Users\Win10\Documents\Programa gerson\sistema bueno\BLL\bin\Debug\BLL.dll
+C:\Users\Win10\Documents\Programa gerson\sistema bueno\BLL\bin\Debug\BLL.pdb
+C:\Users\Win10\Documents\Programa gerson\sistema bueno\BLL\bin\Debug\BLL.xml
+C:\Users\Win10\Documents\Programa gerson\sistema bueno\BLL\bin\Debug\dall.dll
+C:\Users\Win10\Documents\Programa gerson\sistema bueno\BLL\bin\Debug\dall.pdb
+C:\Users\Win10\Documents\Programa gerson\sistema bueno\BLL\bin\Debug\dall.xml
+C:\Users\Win10\Documents\Programa gerson\sistema bueno\BLL\bin\Debug\dall.dll.config
+C:\Users\Win10\Documents\Programa gerson\sistema bueno\BLL\obj\Debug\BLL.vbprojAssemblyReference.cache
+C:\Users\Win10\Documents\Programa gerson\sistema bueno\BLL\obj\Debug\BLL.Resources.resources
+C:\Users\Win10\Documents\Programa gerson\sistema bueno\BLL\obj\Debug\BLL.vbproj.GenerateResource.cache
+C:\Users\Win10\Documents\Programa gerson\sistema bueno\BLL\obj\Debug\BLL.vbproj.CoreCompileInputs.cache
+C:\Users\Win10\Documents\Programa gerson\sistema bueno\BLL\obj\Debug\BLL.vbproj.CopyComplete
+C:\Users\Win10\Documents\Programa gerson\sistema bueno\BLL\obj\Debug\BLL.dll
+C:\Users\Win10\Documents\Programa gerson\sistema bueno\BLL\obj\Debug\BLL.xml
+C:\Users\Win10\Documents\Programa gerson\sistema bueno\BLL\obj\Debug\BLL.pdb
+C:\Users\Win10\Documents\backup gerson\Programa\sistema bueno\BLL\bin\Debug\BLL.dll.config
+C:\Users\Win10\Documents\backup gerson\Programa\sistema bueno\BLL\bin\Debug\BLL.dll
+C:\Users\Win10\Documents\backup gerson\Programa\sistema bueno\BLL\bin\Debug\BLL.pdb
+C:\Users\Win10\Documents\backup gerson\Programa\sistema bueno\BLL\bin\Debug\BLL.xml
+C:\Users\Win10\Documents\backup gerson\Programa\sistema bueno\BLL\bin\Debug\dall.dll
+C:\Users\Win10\Documents\backup gerson\Programa\sistema bueno\BLL\bin\Debug\dall.pdb
+C:\Users\Win10\Documents\backup gerson\Programa\sistema bueno\BLL\bin\Debug\dall.xml
+C:\Users\Win10\Documents\backup gerson\Programa\sistema bueno\BLL\bin\Debug\dall.dll.config
+C:\Users\Win10\Documents\backup gerson\Programa\sistema bueno\BLL\obj\Debug\BLL.vbprojAssemblyReference.cache
+C:\Users\Win10\Documents\backup gerson\Programa\sistema bueno\BLL\obj\Debug\BLL.Resources.resources
+C:\Users\Win10\Documents\backup gerson\Programa\sistema bueno\BLL\obj\Debug\BLL.vbproj.GenerateResource.cache
+C:\Users\Win10\Documents\backup gerson\Programa\sistema bueno\BLL\obj\Debug\BLL.vbproj.CoreCompileInputs.cache
+C:\Users\Win10\Documents\backup gerson\Programa\sistema bueno\BLL\obj\Debug\BLL.vbproj.CopyComplete
+C:\Users\Win10\Documents\backup gerson\Programa\sistema bueno\BLL\obj\Debug\BLL.dll
+C:\Users\Win10\Documents\backup gerson\Programa\sistema bueno\BLL\obj\Debug\BLL.xml
+C:\Users\Win10\Documents\backup gerson\Programa\sistema bueno\BLL\obj\Debug\BLL.pdb
+C:\Users\Public\Documents\respaldos de programas\Programa 12-9\sistema bueno\BLL\bin\Debug\BLL.dll.config
+C:\Users\Public\Documents\respaldos de programas\Programa 12-9\sistema bueno\BLL\bin\Debug\BLL.dll
+C:\Users\Public\Documents\respaldos de programas\Programa 12-9\sistema bueno\BLL\bin\Debug\BLL.pdb
+C:\Users\Public\Documents\respaldos de programas\Programa 12-9\sistema bueno\BLL\bin\Debug\BLL.xml
+C:\Users\Public\Documents\respaldos de programas\Programa 12-9\sistema bueno\BLL\bin\Debug\dall.dll
+C:\Users\Public\Documents\respaldos de programas\Programa 12-9\sistema bueno\BLL\bin\Debug\dall.pdb
+C:\Users\Public\Documents\respaldos de programas\Programa 12-9\sistema bueno\BLL\bin\Debug\dall.xml
+C:\Users\Public\Documents\respaldos de programas\Programa 12-9\sistema bueno\BLL\bin\Debug\dall.dll.config
+C:\Users\Public\Documents\respaldos de programas\Programa 12-9\sistema bueno\BLL\obj\Debug\BLL.vbprojAssemblyReference.cache
+C:\Users\Public\Documents\respaldos de programas\Programa 12-9\sistema bueno\BLL\obj\Debug\BLL.Resources.resources
+C:\Users\Public\Documents\respaldos de programas\Programa 12-9\sistema bueno\BLL\obj\Debug\BLL.vbproj.GenerateResource.cache
+C:\Users\Public\Documents\respaldos de programas\Programa 12-9\sistema bueno\BLL\obj\Debug\BLL.vbproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\respaldos de programas\Programa 12-9\sistema bueno\BLL\obj\Debug\BLL.vbproj.CopyComplete
+C:\Users\Public\Documents\respaldos de programas\Programa 12-9\sistema bueno\BLL\obj\Debug\BLL.dll
+C:\Users\Public\Documents\respaldos de programas\Programa 12-9\sistema bueno\BLL\obj\Debug\BLL.xml
+C:\Users\Public\Documents\respaldos de programas\Programa 12-9\sistema bueno\BLL\obj\Debug\BLL.pdb
+C:\Users\Win10\Desktop\fin\sistema fin\BLL\bin\Debug\BLL.dll.config
+C:\Users\Win10\Desktop\fin\sistema fin\BLL\bin\Debug\BLL.dll
+C:\Users\Win10\Desktop\fin\sistema fin\BLL\bin\Debug\BLL.pdb
+C:\Users\Win10\Desktop\fin\sistema fin\BLL\bin\Debug\BLL.xml
+C:\Users\Win10\Desktop\fin\sistema fin\BLL\bin\Debug\dall.dll
+C:\Users\Win10\Desktop\fin\sistema fin\BLL\bin\Debug\dall.pdb
+C:\Users\Win10\Desktop\fin\sistema fin\BLL\bin\Debug\dall.xml
+C:\Users\Win10\Desktop\fin\sistema fin\BLL\bin\Debug\dall.dll.config
+C:\Users\Win10\Desktop\fin\sistema fin\BLL\obj\Debug\BLL.vbprojAssemblyReference.cache
+C:\Users\Win10\Desktop\fin\sistema fin\BLL\obj\Debug\BLL.Resources.resources
+C:\Users\Win10\Desktop\fin\sistema fin\BLL\obj\Debug\BLL.vbproj.GenerateResource.cache
+C:\Users\Win10\Desktop\fin\sistema fin\BLL\obj\Debug\BLL.vbproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\fin\sistema fin\BLL\obj\Debug\BLL.vbproj.CopyComplete
+C:\Users\Win10\Desktop\fin\sistema fin\BLL\obj\Debug\BLL.dll
+C:\Users\Win10\Desktop\fin\sistema fin\BLL\obj\Debug\BLL.xml
+C:\Users\Win10\Desktop\fin\sistema fin\BLL\obj\Debug\BLL.pdb
+C:\Users\Win10\Desktop\sistema fin 13-9\BLL\bin\Debug\BLL.dll.config
+C:\Users\Win10\Desktop\sistema fin 13-9\BLL\bin\Debug\BLL.dll
+C:\Users\Win10\Desktop\sistema fin 13-9\BLL\bin\Debug\BLL.pdb
+C:\Users\Win10\Desktop\sistema fin 13-9\BLL\bin\Debug\BLL.xml
+C:\Users\Win10\Desktop\sistema fin 13-9\BLL\bin\Debug\dall.dll
+C:\Users\Win10\Desktop\sistema fin 13-9\BLL\bin\Debug\dall.pdb
+C:\Users\Win10\Desktop\sistema fin 13-9\BLL\bin\Debug\dall.xml
+C:\Users\Win10\Desktop\sistema fin 13-9\BLL\bin\Debug\dall.dll.config
+C:\Users\Win10\Desktop\sistema fin 13-9\BLL\obj\Debug\BLL.vbprojAssemblyReference.cache
+C:\Users\Win10\Desktop\sistema fin 13-9\BLL\obj\Debug\BLL.Resources.resources
+C:\Users\Win10\Desktop\sistema fin 13-9\BLL\obj\Debug\BLL.vbproj.GenerateResource.cache
+C:\Users\Win10\Desktop\sistema fin 13-9\BLL\obj\Debug\BLL.vbproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\sistema fin 13-9\BLL\obj\Debug\BLL.vbproj.CopyComplete
+C:\Users\Win10\Desktop\sistema fin 13-9\BLL\obj\Debug\BLL.dll
+C:\Users\Win10\Desktop\sistema fin 13-9\BLL\obj\Debug\BLL.xml
+C:\Users\Win10\Desktop\sistema fin 13-9\BLL\obj\Debug\BLL.pdb

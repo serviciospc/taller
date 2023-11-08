@@ -1,0 +1,656 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+dall
+</name>
+</assembly>
+<members>
+<member name="T:dall.DataSetCliente.ClienteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:dall.DataSetCliente.ClienteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:dall.DataSetCliente.ClienteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:dall.DataSetCliente">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:dall.DataSetClienteTableAdapters.ClienteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:dall.DataSetClienteTableAdapters.TableAdapterManager.UpdateUpdatedRows(dall.DataSetCliente,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:dall.DataSetClienteTableAdapters.TableAdapterManager.UpdateInsertedRows(dall.DataSetCliente,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:dall.DataSetClienteTableAdapters.TableAdapterManager.UpdateDeletedRows(dall.DataSetCliente,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:dall.DataSetClienteTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:dall.DataSetClienteTableAdapters.TableAdapterManager.UpdateAll(dall.DataSetCliente)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:dall.DataSetClienteTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:dall.DataSetClienteTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:dall.DataSetClienteTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:dall.DataSetEstadp.estado_equipoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:dall.DataSetEstadp.equipoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:dall.DataSetEstadp.estado_equipoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:dall.DataSetEstadp.equipoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:dall.DataSetEstadp.estado_equipoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:dall.DataSetEstadp.equipoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:dall.DataSetEstadp">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:dall.DataSetEstadpTableAdapters.estado_equipoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:dall.DataSetEstadpTableAdapters.equipoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:dall.DataSetEstadpTableAdapters.TableAdapterManager.UpdateUpdatedRows(dall.DataSetEstadp,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:dall.DataSetEstadpTableAdapters.TableAdapterManager.UpdateInsertedRows(dall.DataSetEstadp,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:dall.DataSetEstadpTableAdapters.TableAdapterManager.UpdateDeletedRows(dall.DataSetEstadp,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:dall.DataSetEstadpTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:dall.DataSetEstadpTableAdapters.TableAdapterManager.UpdateAll(dall.DataSetEstadp)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:dall.DataSetEstadpTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:dall.DataSetEstadpTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:dall.DataSetEstadpTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:dall.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:dall.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:dall.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:dall.DataSetRecepcionCuerpo.recepcion_cuerpoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:dall.DataSetRecepcionCuerpo.recepcion_cuerpoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:dall.DataSetRecepcionCuerpo.recepcion_cuerpoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:dall.DataSetRecepcionCuerpo">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:dall.DataSetRecepcionCuerpoTableAdapters.recepcion_cuerpoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:dall.DataSetRecepcionCuerpoTableAdapters.TableAdapterManager.UpdateUpdatedRows(dall.DataSetRecepcionCuerpo,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:dall.DataSetRecepcionCuerpoTableAdapters.TableAdapterManager.UpdateInsertedRows(dall.DataSetRecepcionCuerpo,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:dall.DataSetRecepcionCuerpoTableAdapters.TableAdapterManager.UpdateDeletedRows(dall.DataSetRecepcionCuerpo,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:dall.DataSetRecepcionCuerpoTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:dall.DataSetRecepcionCuerpoTableAdapters.TableAdapterManager.UpdateAll(dall.DataSetRecepcionCuerpo)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:dall.DataSetRecepcionCuerpoTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:dall.DataSetRecepcionCuerpoTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:dall.DataSetRecepcionCuerpoTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:dall.DataSettecnico1.usuarioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:dall.DataSettecnico1.usuarioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:dall.DataSettecnico1.usuarioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:dall.DataSettecnico1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:dall.DataSettecnico1TableAdapters.usuarioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:dall.DataSettecnico1TableAdapters.TableAdapterManager.UpdateUpdatedRows(dall.DataSettecnico1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:dall.DataSettecnico1TableAdapters.TableAdapterManager.UpdateInsertedRows(dall.DataSettecnico1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:dall.DataSettecnico1TableAdapters.TableAdapterManager.UpdateDeletedRows(dall.DataSettecnico1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:dall.DataSettecnico1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:dall.DataSettecnico1TableAdapters.TableAdapterManager.UpdateAll(dall.DataSettecnico1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:dall.DataSettecnico1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:dall.DataSettecnico1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:dall.DataSettecnico1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:dall.DataSetClienteEquipo.DataTable1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:dall.DataSetClienteEquipo.DataTable1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:dall.DataSetClienteEquipo.DataTable1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:dall.DataSetClienteEquipo">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:dall.DataSetClienteEquipoTableAdapters.DataTable1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:dall.DataSetClienteEquipoTableAdapters.TableAdapterManager.UpdateUpdatedRows(dall.DataSetClienteEquipo,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:dall.DataSetClienteEquipoTableAdapters.TableAdapterManager.UpdateInsertedRows(dall.DataSetClienteEquipo,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:dall.DataSetClienteEquipoTableAdapters.TableAdapterManager.UpdateDeletedRows(dall.DataSetClienteEquipo,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:dall.DataSetClienteEquipoTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:dall.DataSetClienteEquipoTableAdapters.TableAdapterManager.UpdateAll(dall.DataSetClienteEquipo)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:dall.DataSetClienteEquipoTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:dall.DataSetClienteEquipoTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:dall.DataSetClienteEquipoTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:dall.datasetTodo.DataTable1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:dall.datasetTodo.DataTable2DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:dall.datasetTodo.DataTable3DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:dall.datasetTodo.recepcion_cuerpoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:dall.datasetTodo.DataTable1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:dall.datasetTodo.DataTable2Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:dall.datasetTodo.DataTable3Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:dall.datasetTodo.recepcion_cuerpoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:dall.datasetTodo.DataTable1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:dall.datasetTodo.DataTable2RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:dall.datasetTodo.DataTable3RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:dall.datasetTodo.recepcion_cuerpoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:dall.datasetTodo">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:dall.datasetTodoTableAdapters.DataTable1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:dall.datasetTodoTableAdapters.DataTable2TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:dall.datasetTodoTableAdapters.DataTable3TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:dall.datasetTodoTableAdapters.recepcion_cuerpoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:dall.datasetTodoTableAdapters.TableAdapterManager.UpdateUpdatedRows(dall.datasetTodo,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:dall.datasetTodoTableAdapters.TableAdapterManager.UpdateInsertedRows(dall.datasetTodo,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:dall.datasetTodoTableAdapters.TableAdapterManager.UpdateDeletedRows(dall.datasetTodo,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:dall.datasetTodoTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:dall.datasetTodoTableAdapters.TableAdapterManager.UpdateAll(dall.datasetTodo)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:dall.datasetTodoTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:dall.datasetTodoTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:dall.datasetTodoTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:dall.DataSetfactura.recepcion_encabezadoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:dall.DataSetfactura.recepcion_cuerpoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:dall.DataSetfactura.recepcion_encabezadoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:dall.DataSetfactura.recepcion_cuerpoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:dall.DataSetfactura.recepcion_encabezadoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:dall.DataSetfactura.recepcion_cuerpoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:dall.DataSetfactura">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:dall.DataSetfacturaTableAdapters.recepcion_encabezadoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:dall.DataSetfacturaTableAdapters.recepcion_cuerpoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:dall.DataSetfacturaTableAdapters.TableAdapterManager.UpdateUpdatedRows(dall.DataSetfactura,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:dall.DataSetfacturaTableAdapters.TableAdapterManager.UpdateInsertedRows(dall.DataSetfactura,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:dall.DataSetfacturaTableAdapters.TableAdapterManager.UpdateDeletedRows(dall.DataSetfactura,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:dall.DataSetfacturaTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:dall.DataSetfacturaTableAdapters.TableAdapterManager.UpdateAll(dall.DataSetfactura)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:dall.DataSetfacturaTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:dall.DataSetfacturaTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:dall.DataSetfacturaTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:dall.DataSetRecepcion.RecepcionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:dall.DataSetRecepcion.RecepcionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:dall.DataSetRecepcion.RecepcionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:dall.DataSetRecepcion">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:dall.DataSetRecepcionTableAdapters.RecepcionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:dall.DataSetRecepcionTableAdapters.TableAdapterManager.UpdateUpdatedRows(dall.DataSetRecepcion,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:dall.DataSetRecepcionTableAdapters.TableAdapterManager.UpdateInsertedRows(dall.DataSetRecepcion,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:dall.DataSetRecepcionTableAdapters.TableAdapterManager.UpdateDeletedRows(dall.DataSetRecepcion,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:dall.DataSetRecepcionTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:dall.DataSetRecepcionTableAdapters.TableAdapterManager.UpdateAll(dall.DataSetRecepcion)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:dall.DataSetRecepcionTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:dall.DataSetRecepcionTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:dall.DataSetRecepcionTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:dall.DataSetRecivido.DataTable1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:dall.DataSetRecivido.DataTable2DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:dall.DataSetRecivido.DataTable1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:dall.DataSetRecivido.DataTable2Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:dall.DataSetRecivido.DataTable1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:dall.DataSetRecivido.DataTable2RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:dall.DataSetRecivido">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:dall.DataSetRecividoTableAdapters.DataTable1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:dall.DataSetRecividoTableAdapters.DataTable2TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:dall.DataSetRecividoTableAdapters.TableAdapterManager.UpdateUpdatedRows(dall.DataSetRecivido,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:dall.DataSetRecividoTableAdapters.TableAdapterManager.UpdateInsertedRows(dall.DataSetRecivido,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:dall.DataSetRecividoTableAdapters.TableAdapterManager.UpdateDeletedRows(dall.DataSetRecivido,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:dall.DataSetRecividoTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:dall.DataSetRecividoTableAdapters.TableAdapterManager.UpdateAll(dall.DataSetRecivido)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:dall.DataSetRecividoTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:dall.DataSetRecividoTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:dall.DataSetRecividoTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:dall.DataSetTecnico.usuarioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:dall.DataSetTecnico.usuario1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:dall.DataSetTecnico.usuarioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:dall.DataSetTecnico.usuario1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:dall.DataSetTecnico.usuarioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:dall.DataSetTecnico.usuario1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:dall.DataSetTecnico">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:dall.DataSetTecnicoTableAdapters.usuarioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:dall.DataSetTecnicoTableAdapters.usuario1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:dall.DataSetTecnicoTableAdapters.TableAdapterManager.UpdateUpdatedRows(dall.DataSetTecnico,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:dall.DataSetTecnicoTableAdapters.TableAdapterManager.UpdateInsertedRows(dall.DataSetTecnico,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:dall.DataSetTecnicoTableAdapters.TableAdapterManager.UpdateDeletedRows(dall.DataSetTecnico,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:dall.DataSetTecnicoTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:dall.DataSetTecnicoTableAdapters.TableAdapterManager.UpdateAll(dall.DataSetTecnico)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:dall.DataSetTecnicoTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:dall.DataSetTecnicoTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:dall.DataSetTecnicoTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,69 @@
+C:\Users\ServiciosPC\Desktop\TALLER\Matris_Taller\Matris_Taller\bin\Debug\Matris_Taller.dll
+C:\Users\ServiciosPC\Desktop\TALLER\Matris_Taller\Matris_Taller\bin\Debug\Matris_Taller.pdb
+C:\Users\ServiciosPC\Desktop\TALLER\Matris_Taller\Matris_Taller\bin\Debug\Matris_Taller.xml
+C:\Users\ServiciosPC\Desktop\TALLER\Matris_Taller\Matris_Taller\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ServiciosPC\Desktop\TALLER\Matris_Taller\Matris_Taller\obj\Debug\Matris_Taller.Resources.resources
+C:\Users\ServiciosPC\Desktop\TALLER\Matris_Taller\Matris_Taller\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\ServiciosPC\Desktop\TALLER\Matris_Taller\Matris_Taller\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\ServiciosPC\Desktop\TALLER\Matris_Taller\Matris_Taller\obj\Debug\Matris_Taller.dll
+C:\Users\ServiciosPC\Desktop\TALLER\Matris_Taller\Matris_Taller\obj\Debug\Matris_Taller.xml
+C:\Users\ServiciosPC\Desktop\TALLER\Matris_Taller\Matris_Taller\obj\Debug\Matris_Taller.pdb
+C:\Users\ServiciosPC\Desktop\taller\Matris_Taller\bin\Debug\Matris_Taller.dll
+C:\Users\ServiciosPC\Desktop\taller\Matris_Taller\bin\Debug\Matris_Taller.pdb
+C:\Users\ServiciosPC\Desktop\taller\Matris_Taller\bin\Debug\Matris_Taller.xml
+C:\Users\ServiciosPC\Desktop\taller\Matris_Taller\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ServiciosPC\Desktop\taller\Matris_Taller\obj\Debug\Matris_Taller.Resources.resources
+C:\Users\ServiciosPC\Desktop\taller\Matris_Taller\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\ServiciosPC\Desktop\taller\Matris_Taller\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\ServiciosPC\Desktop\taller\Matris_Taller\obj\Debug\Matris_Taller.dll
+C:\Users\ServiciosPC\Desktop\taller\Matris_Taller\obj\Debug\Matris_Taller.xml
+C:\Users\ServiciosPC\Desktop\taller\Matris_Taller\obj\Debug\Matris_Taller.pdb
+C:\Users\Administrador\Desktop\xx\Matris_Taller\bin\Debug\Matris_Taller.dll
+C:\Users\Administrador\Desktop\xx\Matris_Taller\bin\Debug\Matris_Taller.pdb
+C:\Users\Administrador\Desktop\xx\Matris_Taller\bin\Debug\Matris_Taller.xml
+C:\Users\Administrador\Desktop\xx\Matris_Taller\obj\Debug\Matris_Taller.Resources.resources
+C:\Users\Administrador\Desktop\xx\Matris_Taller\obj\Debug\Matris_Taller.vbproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\xx\Matris_Taller\obj\Debug\Matris_Taller.dll
+C:\Users\Administrador\Desktop\xx\Matris_Taller\obj\Debug\Matris_Taller.xml
+C:\Users\Administrador\Desktop\xx\Matris_Taller\obj\Debug\Matris_Taller.pdb
+C:\Users\gerson\Desktop\Programa1\sistema bueno\Matris_Taller\bin\Debug\Matris_Taller.dll
+C:\Users\gerson\Desktop\Programa1\sistema bueno\Matris_Taller\bin\Debug\Matris_Taller.pdb
+C:\Users\gerson\Desktop\Programa1\sistema bueno\Matris_Taller\bin\Debug\Matris_Taller.xml
+C:\Users\gerson\Desktop\Programa1\sistema bueno\Matris_Taller\obj\Debug\Matris_Taller.vbprojAssemblyReference.cache
+C:\Users\gerson\Desktop\Programa1\sistema bueno\Matris_Taller\obj\Debug\Matris_Taller.Resources.resources
+C:\Users\gerson\Desktop\Programa1\sistema bueno\Matris_Taller\obj\Debug\Matris_Taller.vbproj.GenerateResource.cache
+C:\Users\gerson\Desktop\Programa1\sistema bueno\Matris_Taller\obj\Debug\Matris_Taller.vbproj.CoreCompileInputs.cache
+C:\Users\gerson\Desktop\Programa1\sistema bueno\Matris_Taller\obj\Debug\Matris_Taller.dll
+C:\Users\gerson\Desktop\Programa1\sistema bueno\Matris_Taller\obj\Debug\Matris_Taller.xml
+C:\Users\gerson\Desktop\Programa1\sistema bueno\Matris_Taller\obj\Debug\Matris_Taller.pdb
+C:\Users\Win10\Desktop\Programa gerson\sistema bueno\Matris_Taller\bin\Debug\Matris_Taller.dll
+C:\Users\Win10\Desktop\Programa gerson\sistema bueno\Matris_Taller\bin\Debug\Matris_Taller.pdb
+C:\Users\Win10\Desktop\Programa gerson\sistema bueno\Matris_Taller\bin\Debug\Matris_Taller.xml
+C:\Users\Win10\Desktop\Programa gerson\sistema bueno\Matris_Taller\obj\Debug\Matris_Taller.vbprojAssemblyReference.cache
+C:\Users\Win10\Desktop\Programa gerson\sistema bueno\Matris_Taller\obj\Debug\Matris_Taller.Resources.resources
+C:\Users\Win10\Desktop\Programa gerson\sistema bueno\Matris_Taller\obj\Debug\Matris_Taller.vbproj.GenerateResource.cache
+C:\Users\Win10\Desktop\Programa gerson\sistema bueno\Matris_Taller\obj\Debug\Matris_Taller.vbproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\Programa gerson\sistema bueno\Matris_Taller\obj\Debug\Matris_Taller.dll
+C:\Users\Win10\Desktop\Programa gerson\sistema bueno\Matris_Taller\obj\Debug\Matris_Taller.xml
+C:\Users\Win10\Desktop\Programa gerson\sistema bueno\Matris_Taller\obj\Debug\Matris_Taller.pdb
+C:\Users\Win10\Documents\backup gerson\Programa\sistema bueno\Matris_Taller\bin\Debug\Matris_Taller.dll
+C:\Users\Win10\Documents\backup gerson\Programa\sistema bueno\Matris_Taller\bin\Debug\Matris_Taller.pdb
+C:\Users\Win10\Documents\backup gerson\Programa\sistema bueno\Matris_Taller\bin\Debug\Matris_Taller.xml
+C:\Users\Win10\Documents\backup gerson\Programa\sistema bueno\Matris_Taller\obj\Debug\Matris_Taller.vbprojAssemblyReference.cache
+C:\Users\Win10\Documents\backup gerson\Programa\sistema bueno\Matris_Taller\obj\Debug\Matris_Taller.Resources.resources
+C:\Users\Win10\Documents\backup gerson\Programa\sistema bueno\Matris_Taller\obj\Debug\Matris_Taller.vbproj.GenerateResource.cache
+C:\Users\Win10\Documents\backup gerson\Programa\sistema bueno\Matris_Taller\obj\Debug\Matris_Taller.vbproj.CoreCompileInputs.cache
+C:\Users\Win10\Documents\backup gerson\Programa\sistema bueno\Matris_Taller\obj\Debug\Matris_Taller.dll
+C:\Users\Win10\Documents\backup gerson\Programa\sistema bueno\Matris_Taller\obj\Debug\Matris_Taller.xml
+C:\Users\Win10\Documents\backup gerson\Programa\sistema bueno\Matris_Taller\obj\Debug\Matris_Taller.pdb
+C:\Users\Win10\Documents\backup gerson\cambio de server 2-11\Matris_Taller\bin\Debug\Matris_Taller.dll.config
+C:\Users\Win10\Documents\backup gerson\cambio de server 2-11\Matris_Taller\bin\Debug\Matris_Taller.dll
+C:\Users\Win10\Documents\backup gerson\cambio de server 2-11\Matris_Taller\bin\Debug\Matris_Taller.pdb
+C:\Users\Win10\Documents\backup gerson\cambio de server 2-11\Matris_Taller\bin\Debug\Matris_Taller.xml
+C:\Users\Win10\Documents\backup gerson\cambio de server 2-11\Matris_Taller\obj\Debug\Matris_Taller.vbprojAssemblyReference.cache
+C:\Users\Win10\Documents\backup gerson\cambio de server 2-11\Matris_Taller\obj\Debug\Matris_Taller.Resources.resources
+C:\Users\Win10\Documents\backup gerson\cambio de server 2-11\Matris_Taller\obj\Debug\Matris_Taller.vbproj.GenerateResource.cache
+C:\Users\Win10\Documents\backup gerson\cambio de server 2-11\Matris_Taller\obj\Debug\Matris_Taller.vbproj.CoreCompileInputs.cache
+C:\Users\Win10\Documents\backup gerson\cambio de server 2-11\Matris_Taller\obj\Debug\Matris_Taller.dll
+C:\Users\Win10\Documents\backup gerson\cambio de server 2-11\Matris_Taller\obj\Debug\Matris_Taller.xml
+C:\Users\Win10\Documents\backup gerson\cambio de server 2-11\Matris_Taller\obj\Debug\Matris_Taller.pdb

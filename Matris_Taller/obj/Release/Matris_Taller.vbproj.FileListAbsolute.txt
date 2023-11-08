@@ -1,0 +1,8 @@
+C:\Users\Administrador\Desktop\sistema bueno\Matris_Taller\bin\Release\Matris_Taller.dll
+C:\Users\Administrador\Desktop\sistema bueno\Matris_Taller\bin\Release\Matris_Taller.pdb
+C:\Users\Administrador\Desktop\sistema bueno\Matris_Taller\bin\Release\Matris_Taller.xml
+C:\Users\Administrador\Desktop\sistema bueno\Matris_Taller\obj\Release\Matris_Taller.Resources.resources
+C:\Users\Administrador\Desktop\sistema bueno\Matris_Taller\obj\Release\Matris_Taller.vbproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\sistema bueno\Matris_Taller\obj\Release\Matris_Taller.dll
+C:\Users\Administrador\Desktop\sistema bueno\Matris_Taller\obj\Release\Matris_Taller.xml
+C:\Users\Administrador\Desktop\sistema bueno\Matris_Taller\obj\Release\Matris_Taller.pdb
